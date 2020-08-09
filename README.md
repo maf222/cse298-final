@@ -14,11 +14,11 @@ Due by: 8/10 by end of day
 
 If you agree with the above, type your full name in the following space along with the date. Your exam **will not be graded** without this assent. When you are done, make your first commit with the commit message: "I, <your name>, agree to the ethics contract".
 
-*** Write name and date below ***
+I, Marc Ferdinandusse, agree to the ethics contract
 
 
 
-*** Write name and date above ***
+Marc Ferdinandusse 09/08/2020
 
 -----------------------------------------------------------------------------------------------------
 
@@ -53,6 +53,7 @@ First, Implement one of the following algorithms:
 **Once you are done implementing:**
 
 Demonstrate the algorithm working with a video or a series of stills. If you provide a series of still images, annotate them to show me what's going on in each one. If you provide a video, host it on youtube and give me a link. It's easy to [record your screen using zoom](https://support.zoom.us/hc/en-us/articles/201362473-Local-Recording). Either give me a voice annotation of what's going on, or write it out in this README with timestamps indicating what is happening.
+
 
 ### Part 2
 
